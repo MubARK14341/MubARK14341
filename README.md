@@ -44,6 +44,10 @@ A personal iPhone app for organizing vehicle maintenance records, receipts, expe
 - **Testing and tools:** Git, Vitest, Playwright, pgTAP.
 - **Computer engineering coursework and labs:** Embedded systems, Arduino, Raspberry Pi, digital logic using Quartus and Active-HDL, and networking with simulated and physical routers and switches.
 
+## Training
+
+- **CCNA training course | Abad Training Institute:** Completed the course and earned a course completion certificate. This is a training certificate, not the Cisco CCNA certification.
+
 ## Contact
 
 - **GitHub:** [MubARK14341](https://github.com/MubARK14341)

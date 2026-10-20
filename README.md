@@ -1,59 +1,50 @@
-# Hi, I'm Mubarak Alarfaj
+# Hi, I'm Mubark Abdullah Alarfaj
 
-I'm a Computer Engineering student at King Saud University. I'm interested in turning manual work and scattered information into practical applications and organized digital workflows.
+Computer Engineering student at King Saud University, expected to graduate in 2027.
+
+I build practical applications that connect users, data, and everyday workflows. My recent work includes an educational platform and an IT asset management system, alongside academic experience in embedded systems and networking.
 
 ## Selected projects
 
-These projects grew out of hands-on training and practical development, with a focus on replacing manual tasks with useful digital tools.
+### AFAQ | Educational Programs Platform
 
-### Afaq Association — Educational Platform
+Built and delivered a platform for managing educational programs, study groups, and student progress during my training with Afaq Association. I continue to develop and improve it.
 
-Contributed to a platform designed to bring student, teacher, and administration workflows into one place.
+- Connected student, teacher, supervision, and administration workflows, from enrollment and group assignment to attendance, assignments, progress tracking, and reports.
+- Built administration interfaces with Next.js and shared mobile/web applications with React Native and Expo.
+- Implemented role- and scope-based data access using PostgreSQL Row Level Security through Supabase.
+- Integrated a working administrative assistant with the DeepSeek API to help execute tasks and update records, with user confirmation before changes are applied.
+- Used shared business logic across applications, with Vitest, Playwright, and pgTAP for application and database testing.
 
-Developed as a practical training project and now used by Afaq Association.
+**Stack:** TypeScript, React, Next.js, React Native, Expo, Supabase, PostgreSQL, Tailwind CSS.
 
-- Student registration review and study-group join requests.
-- Study-group and student roster views.
-- Attendance recording and meeting follow-up.
-- Learning material management and student access.
+### AONE | IT Asset Management
 
-**Technologies used in the project:** TypeScript, React, Next.js, React Native, Expo, Supabase.
+Built and delivered an IT asset, inventory, and custody management system during my practical training.
 
-### AONE — IT Asset Management
+- Connected asset records with employee assignments, returns, transfers, maintenance, and activity history.
+- Implemented request and approval workflows through warehouse fulfillment, with stock receipt, issue, and low-stock tracking.
+- Added QR label generation and scanning, dashboards, and CSV import/export.
+- Built employee self-service and a separate customer portal, with database-level access controls and customer data isolation.
+- Supported Arabic and English interfaces, including right-to-left layouts, and used Vitest and Playwright for testing.
 
-Worked on a system designed to organize IT assets, inventory, and day-to-day service work.
+**Stack:** TypeScript, React, Next.js, Tailwind CSS, Supabase, PostgreSQL, Vercel.
 
-Developed as a practical training project and now used by AONE.
+### Markab | Car Maintenance Tracker
 
-- Asset search, filters, and QR labels.
-- Consumable inventory with stock receipt and issue workflows.
-- Request lists and status tracking.
-- Maintenance records and filters.
-- Reports with CSV export.
+A personal iPhone app for organizing vehicle maintenance records, receipts, expenses, and upcoming service dates.
 
-**Technologies used in the project:** TypeScript, React, Next.js, Tailwind CSS, Supabase.
+**Stack:** Swift, SwiftUI.
 
-### Markab — Car Maintenance Tracker
+## Technical background
 
-Worked on a personal iPhone app designed to keep car maintenance records, receipts, and upcoming service dates together.
-
-- Separate records for multiple cars.
-- Expense entries with image or PDF receipt attachments.
-- Record search and car filters.
-- Service schedules based on dates or manually updated mileage, with optional local date notifications.
-- Monthly, yearly, and overall expense summaries.
-
-**Technologies used in the project:** Swift, SwiftUI.
-
-## Technologies
-
-Technologies used in these projects that I would like to highlight:
-
-- **Web:** TypeScript, React, Next.js, Tailwind CSS.
-- **Mobile:** Swift, SwiftUI, React Native, Expo.
-- **Backend integration:** Supabase.
+- **Languages:** TypeScript, JavaScript, Python, Java, C, MATLAB.
+- **Web and mobile:** React, Next.js, React Native, Expo, HTML, CSS, Tailwind CSS.
+- **Data and backend integration:** PostgreSQL, Supabase, authentication, Row Level Security, API integration.
+- **Testing and tools:** Git, Vitest, Playwright, pgTAP.
+- **Computer engineering coursework and labs:** Embedded systems, Arduino, Raspberry Pi, digital logic using Quartus and Active-HDL, and networking with simulated and physical routers and switches.
 
 ## Contact
 
-- **GitHub:** MubARK14341
+- **GitHub:** [MubARK14341](https://github.com/MubARK14341)
 - **Email:** [mubark1434@gmail.com](mailto:mubark1434@gmail.com)

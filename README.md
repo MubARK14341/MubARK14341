@@ -18,6 +18,8 @@ Built and delivered a platform for managing educational programs, study groups, 
 
 **Stack:** TypeScript, React, Next.js, React Native, Expo, Supabase, PostgreSQL, Tailwind CSS.
 
+**Repository:** [AFAQ — source, local demo and screenshots](https://github.com/MubARK14341/afaq)
+
 ### AONE | IT Asset Management
 
 Built and delivered an IT asset, inventory, and custody management system during my practical training.
@@ -29,6 +31,8 @@ Built and delivered an IT asset, inventory, and custody management system during
 - Supported Arabic and English interfaces, including right-to-left layouts, and used Vitest and Playwright for testing.
 
 **Stack:** TypeScript, React, Next.js, Tailwind CSS, Supabase, PostgreSQL, Vercel.
+
+**Repository:** [ITAM — source, independent demo and screenshots](https://github.com/MubARK14341/itam)
 
 ### Markab | Car Maintenance Tracker
 
